@@ -10,3 +10,15 @@ This repository contains my C programming practice programs.
 - Functions
 - Pointers
 - Data Structures
+## My Goal
+
+I am learning C programming and building my programming fundamentals.
+
+## Progress
+
+- [x] First C program
+- [x] GitHub basics
+- [ ] Arrays
+- [ ] Functions
+- [ ] Pointers
+- [ ] Data Structures
